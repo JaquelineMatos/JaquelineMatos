@@ -36,8 +36,27 @@ Meu foco é evoluir como **Engenheira de Dados**, criando soluções que gerem i
 
 ---
 
+### 💼 Projetos
+
+#### 1️⃣ Desempenho Financeiro - Power BI
+- **Descrição:** Dashboard interativo para análise do desempenho financeiro da empresa, acompanhamento de DRE, KPIs por período e empresa.  
+- **Tecnologias:** Power BI, DAX  
+- **Base de Dados:** [Google Sheets](https://docs.google.com/spreadsheets/d/1_1SHUKifyp3dJUeVoteX9mrSK2xv8FHlLgGIes-MGlc/edit?pli=1&gid=2108701815)  
+- **Repositório:** [DRE e Lucratividade](https://github.com/JaquelineMatos/dre-lucratividade-powerbi)  
+- **Imagem do Dashboard:**  
+  ![Dashboard Financeiro](imagens/dashboard1.png)
+
+#### 2️⃣ Dashboard Comercial - Power BI
+- **Descrição:** Dashboard para análise comercial, acompanhamento de metas, vendas por produto e indicadores estratégicos de desempenho.  
+- **Tecnologias:** Power BI, DAX  
+- **Repositório:** [Dashboard Comercial](https://github.com/JaquelineMatos/dashboard-comercial-powerbi)  
+- **Imagem do Dashboard:**  
+  ![Dashboard Comercial](imagens/dashboard2.png)
+
+---
+
 ### 📫 Contato  
-📧 **Email:** jaquelinematos082@gmail.com 
-💼 **LinkedIn:** https://www.linkedin.com/in/jaqueline-matos-8369701b5/
+📧 **Email:** jaquelinematos082@gmail.com  
+💼 **LinkedIn:** [https://www.linkedin.com/in/jaqueline-matos-8369701b5/](https://www.linkedin.com/in/jaqueline-matos-8369701b5/)
 
 ⭐ *“Transformar dados em conhecimento é o primeiro passo para transformar o mundo.”*
